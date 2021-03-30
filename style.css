@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+h1{
+    color: #00f;
+    text-align: center;
+    font-size: 100px;
+}
+h2{
+    color: #0000ff;
+    font-style: italic;
+    text-align: center;
+    font-size: 70px;
+}
+p{
+    font-family: sans-serif;
+}
+ul{
+    line-height: 40px;
+}
+.bid{
+    color: chocolate;
+}
+#gig{
+    font-size: medium;
+    color: crimson;
+}
